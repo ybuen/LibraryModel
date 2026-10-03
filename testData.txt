@@ -1,0 +1,16 @@
+B|The Hobbit|J.R.R. Tolkien|Fantasy|4.8
+B|1984|George Orwell|Dystopian|4.6
+B|The Great Gatsby|F. Scott Fitzgerald|Fiction|4.2
+B|Harry Potter and the Philosopher's Stone|J.K. Rowling|Fantasy|4.7
+MAG|National Geographic|National Geographic|Science|4.5
+MAG|TIME|TIME Magazine|News|4.1
+MAG|Forbes|Forbes Media|Business|4.0
+MAG|Sports Illustrated|Sports Illustrated|Sports|4.3
+MOV|Interstellar|Christopher Nolan|Science Fiction|4.8
+MOV|The Dark Knight|Christopher Nolan|Action|4.9
+MOV|Inception|Christopher Nolan|Science Fiction|4.7
+MOV|The Truman Show|Peter Weir|Comedy|4.6
+AB|The Hobbit|J.R.R. Tolkien|Fantasy|4.8
+AB|1984|George Orwell|Dystopian|4.6
+AB|The Great Gatsby|F. Scott Fitzgerald|Fiction|4.2
+AB|Harry Potter and the Philosopher's Stone|J.K. Rowling|Fantasy|4.7
